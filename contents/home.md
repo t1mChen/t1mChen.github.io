@@ -5,7 +5,7 @@
 He is currently pursuing a Master's Degree in Computer Science, at School of Computing and Information Systems, University of Melbourne
 
 #### Email
-sli[at]cumt.edu.cn
+tianxi.chen[at]unimelb.edu.au
 
 #### Education
 Master of Computer Science, University of Melbourne, 2024—2025.\
