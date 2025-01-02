@@ -1,1 +1,4 @@
 - 2025 GradConnection Top 100 Future Leaders
+- Melbourne Plus: People Leadership Certification
+- 2022 Melbourne International Undergraduate Scholarship 
+- UoM Graduate Degree Package - Master of Engineering (2024-25) Recipient
