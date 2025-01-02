@@ -1,6 +1,6 @@
 
 
-[![t1mChen](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/t1mChen)
+[![t1mChen](https://img.shields.io/badge/t1mChen-github-blue?logo=github)](https://github.com/t1mChen)
 
 He is currently pursuing a Master's Degree in Computer Science, at School of Computing and Information Systems, University of Melbourne
 
