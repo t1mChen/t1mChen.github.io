@@ -8,6 +8,7 @@ I'm currently pursuing a Master's Degree in Computer Science, at School of Compu
 tianxi.chen@student.unimelb.edu.au
 
 ### Education
+
 #### Master of Computer Science, University of Melbourne, 2024—2025.
 Weighted Average Mark 82.875
 
